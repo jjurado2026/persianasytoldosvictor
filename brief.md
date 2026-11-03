@@ -63,7 +63,7 @@
 - Ventanas
 - Mamparas de ducha y bañera
 - Motorización de persianas y toldos
-- Ofertas en la home: «20% de descuento en toldos» (caducó el 15/03/23) y «Mampara ducha desde 190€». *(extraído; pendiente saber si siguen vigentes)*
+- Ofertas en la home: «Mampara ducha desde 190€» *(extraído; pendiente confirmar vigencia)*. La tarjeta «20% de descuento en toldos» (caducó el 15/03/23) se quita por decisión de Juan.
 
 ## Datos de contacto *(extraído)*
 - Calle Lladró y Malli, 12, 46007 Valencia
@@ -77,6 +77,7 @@
 - 8 fotos reales de trabajos (porfolio y ofertas): de móvil, 960 px, recomprimidas. Valen a tamaño de tarjeta, no a sangre.
 - 7 fotos de stock (Unsplash y Envato), con resolución de sobra pero genéricas; el hero es una fachada nórdica de madera amarilla.
 - Falta: el local, el equipo, la furgoneta, detalle de producto y trabajos con buena luz. *(pendiente: pedir al cliente)*
+- Foto del hero: la actual, por decisión de Juan, con mejor recorte y tratamiento.
 - Cómo se cubre en el prototipo: con sus propias imágenes. Higgsfield solo con OK y solo para ambientación, nunca como su local, su equipo o sus trabajos. *(propuesto)*
 
 ## Nivel de motion
