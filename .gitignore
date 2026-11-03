@@ -2,3 +2,6 @@ _interno/
 .DS_Store
 node_modules/
 .playwright-cli/
+.taste-skill/
+# Licencia Envato Elements: no redistribuir el archivo fuente en un repo público
+assets/originales/*envato*
